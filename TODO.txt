@@ -1,0 +1,8 @@
+Create a database to store data instead of csv
+Make a class to filter data before insert in database to avoid cleaning
+
+
+Goals:
+Extract data
+Track prices of each car
+Forward alert upon requests
